@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+ 
+    <link href="./Buba.css" rel="stylesheet">
+</head>
+
+
+
+<body bgcolor="#c0c0c0">
+   <header>
+    <div>
+        <img class="main" src="./logo company white.jpg"
+    </div>
+    
+    </header>
+    <main>
+        <table>
+           <tr>
+                  <th>Первое</th>
+                  <th><a href="./Images/images.png">About</a></th>
+                  <th>Следующий проект</th>
+                  <th>Наступний</th>
+                  <th>
+                     <a href="#contact">Контакты</a>
+                  </th>
+           </tr> 
+        </table> 
+   </main>
+  
+<div class="wrapper"></div>
+<div class="content"></div>
+<div class="footer"></div>
+      <footer id="contact">
+         
+        <P>КОНТАКТЫ</P>
+      <address>Адресс: улича Рогозина 22</address>
+    <a href="tel:38092099399">+38092099399</a>
+    <a href="mailto:Sergey9376sergeyhup@gmail.com">Задавайте вопросы по почте</a>
+    <a href="http://htmlbook.ru/">Книга HTML.BOOK</a>
+    <a href="#left">Налево</a>
+    <p>Facebook: Благодійна таємниця життя </p>
+    
+      </footer>
+   
+  
+
+    <button class="success">Ok</button>
+    <button class="cancel">Cancel</button>
+
+
+
+
+</body>
+</html>
+
