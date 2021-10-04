@@ -1,0 +1,41 @@
+
+header {
+    background-image: url(./images/134.jpg);
+}
+table {
+    width: 30px;
+    border-spacing: 2px 11px;
+    border:blueviolet 4px solid ;
+    border-collapse: separate;
+    width: 100%; 
+}
+
+.imgclass { 
+    float:left;
+}
+
+.class-11 {
+    font-weight:unset;
+    height: 330px;
+    width: 700px;
+    float: none;
+    text-align: justify;
+    padding-right: 60px;
+
+}
+
+.class-5 {
+    margin:20px;
+}
+
+.box1 {
+float: left;
+padding: 2px;
+margin: 20px;
+}
+
+.section {
+float: none;
+width: 1750px;
+}
+
